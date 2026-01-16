@@ -4,7 +4,7 @@
 
 An intelligent system that analyzes user-described symptoms and provides **evidence-based preventive health guidance** using Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG) principles. Aligned with **SDG 3: Good Health and Well-Being**.
 
-**Problem Addressed:** Many individuals ignore initial symptoms or rely on unverified online sources, delaying medical attention. This system bridges the gap between symptom onset and professional consultation by providing responsible, preliminary health assessment.
+**Problem Addressed:** Many individuals ignore initial symptoms or rely on unverified online sources, delaying medical attention. This system bridges the gap between symptom onset and professional consultation by providing responsible, preliminary health awareness.
 
 ---
 
@@ -80,8 +80,8 @@ This system:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/symptom-analysis-system.git
-cd symptom-analysis-system
+git clone https://github.com/Shaikirfan007/AI-Symptom-Analysis-Preventive-Health-Guidance.git
+cd AI-Symptom-Analysis-Preventive-Health-Guidance
 ```
 
 2. Create a virtual environment (optional but recommended):
@@ -107,6 +107,7 @@ streamlit run app.py
 ## 💡 Usage Example
 
 **Input:**
-
+"I have a runny nose, sneezing, and a mild cough"
 
 **Output:**
+The system identifies relevant information related to the common cold and provides preventive health guidance along with advice on when to consult a doctor.
