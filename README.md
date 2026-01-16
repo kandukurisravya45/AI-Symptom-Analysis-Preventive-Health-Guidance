@@ -63,7 +63,7 @@ This system:
 
 ### Why This Approach?
 ✓ Explainable AI (no black box)  
-✓ Ethical and safe  
+✓ Ethical and safe,  
 ✓ Quick and lightweight  
 ✓ Easy to audit and improve  
 ✓ No risk of biased ML models  
@@ -111,3 +111,4 @@ streamlit run app.py
 
 **Output:**
 The system identifies relevant information related to the common cold and provides preventive health guidance along with advice on when to consult a doctor.
+
