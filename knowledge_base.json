@@ -1,0 +1,86 @@
+{
+  "common_cold": {
+    "keywords": ["cold", "runny nose", "sneezing", "nasal congestion", "cough"],
+    "condition_name": "Common Cold",
+    "possible_related": ["Viral Infection", "Upper Respiratory Infection"],
+    "preventive_advice": [
+      "Maintain proper hydration: Drink 8-10 glasses of water daily",
+      "Ensure adequate rest: Sleep 7-9 hours per night to boost immunity",
+      "Practice hand hygiene: Wash hands frequently with soap and water",
+      "Use a humidifier to relieve nasal congestion",
+      "Eat vitamin C-rich foods: citrus fruits, berries, and leafy greens",
+      "Avoid crowded places during acute symptoms to prevent spread"
+    ],
+    "when_to_consult_doctor": "If symptoms persist beyond 10 days or worsen significantly"
+  },
+  "influenza": {
+    "keywords": ["flu", "fever", "body aches", "chills", "fatigue", "muscle pain"],
+    "condition_name": "Influenza (Flu)",
+    "possible_related": ["Viral Illness", "Systemic Infection"],
+    "preventive_advice": [
+      "Get annual flu vaccination (most effective prevention method)",
+      "Practice respiratory hygiene: Cover coughs and sneezes",
+      "Avoid touching face, eyes, and nose unnecessarily",
+      "Stay home when sick to prevent transmission to others",
+      "Maintain balanced nutrition with protein and micronutrients",
+      "Stay physically active with moderate exercise (30 mins daily)"
+    ],
+    "when_to_consult_doctor": "Seek immediate medical attention if experiencing difficulty breathing or severe symptoms"
+  },
+  "allergies": {
+    "keywords": ["allergy", "allergic", "itching", "hay fever", "hives", "rash", "itch"],
+    "condition_name": "Allergic Reaction",
+    "possible_related": ["Seasonal Allergies", "Environmental Sensitivity"],
+    "preventive_advice": [
+      "Identify and avoid known allergen triggers",
+      "Keep living spaces clean: Regular vacuuming and dusting",
+      "Use HEPA air filters to reduce airborne allergens",
+      "Wash bedding regularly in hot water",
+      "Monitor pollen forecasts and limit outdoor time on high pollen days",
+      "Use natural remedies: Quercetin-rich foods, saline nasal drops"
+    ],
+    "when_to_consult_doctor": "If allergic reactions are severe, persistent, or affect daily activities"
+  },
+  "headache": {
+    "keywords": ["headache", "head pain", "migraine", "throbbing", "pressure"],
+    "condition_name": "Headache",
+    "possible_related": ["Tension Headache", "Dehydration-related Discomfort"],
+    "preventive_advice": [
+      "Stay well-hydrated: Drink at least 8 glasses of water daily",
+      "Manage stress through meditation, yoga, or breathing exercises",
+      "Maintain consistent sleep schedule: 7-9 hours nightly",
+      "Limit caffeine intake, especially in afternoons and evenings",
+      "Take regular screen breaks: Follow 20-20-20 rule (every 20 mins, look away for 20 secs)",
+      "Engage in regular physical activity to improve circulation"
+    ],
+    "when_to_consult_doctor": "If headaches are sudden, severe, or accompanied by vision changes or confusion"
+  },
+  "fatigue": {
+    "keywords": ["fatigue", "tired", "exhaustion", "low energy", "weakness"],
+    "condition_name": "Fatigue",
+    "possible_related": ["Sleep Deprivation", "Nutrient Deficiency"],
+    "preventive_advice": [
+      "Prioritize sleep: Maintain 7-9 hours consistent sleep schedule",
+      "Eat balanced meals: Include protein, complex carbs, and healthy fats",
+      "Exercise regularly: 30 minutes of moderate activity daily",
+      "Reduce caffeine consumption, especially in evenings",
+      "Practice stress management: Meditation, journaling, or relaxation",
+      "Ensure adequate hydration throughout the day"
+    ],
+    "when_to_consult_doctor": "If fatigue persists for more than 2 weeks despite adequate rest and nutrition"
+  },
+  "gastrointestinal": {
+    "keywords": ["stomach", "nausea", "vomiting", "diarrhea", "cramps", "indigestion", "abdominal"],
+    "condition_name": "Gastrointestinal Discomfort",
+    "possible_related": ["Gastroenteritis", "Food Intolerance"],
+    "preventive_advice": [
+      "Eat small, frequent meals rather than large heavy ones",
+      "Avoid spicy, greasy, and processed foods",
+      "Stay hydrated with water and electrolyte solutions",
+      "Include probiotic-rich foods: yogurt, fermented vegetables, kefir",
+      "Practice proper food safety: Wash hands and cook food thoroughly",
+      "Chew food slowly and thoroughly for proper digestion"
+    ],
+    "when_to_consult_doctor": "If symptoms persist beyond 3 days or if there is severe pain"
+  }
+}
